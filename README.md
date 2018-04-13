@@ -1,6 +1,6 @@
 # FeedReader v1.0 04-13-2018
 
-Feed Reader project for Udacity Intermediate JavaScript course.  This gives the student a project to practice using test suites.
+Feed Reader for Udacity Intermediate JavaScript course.  This gives the student a project to practice using test suites.
 
 ## Table of Contents
 
