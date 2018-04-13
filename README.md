@@ -13,12 +13,6 @@ Feed Reader for Udacity Intermediate JavaScript course.  This gives the student 
 
 ## Installation
 
-### Run this from hosted site
-
-Click [here](https://samulmarziano.github.io/FeedReader/) to run in your browser right now
-
-### Download and run
-
 * Click the green "Clone or download button"
 * Choose your download preference, "Open in Desktop" or "Download ZIP"
 * Open the newly downloaded folder and run the index.html file in your browser
