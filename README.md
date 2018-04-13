@@ -15,7 +15,7 @@ Feed Reader project for Udacity Intermediate JavaScript course.  This gives the 
 
 ### Run this from hosted site
 
-Click [here](http://samulmarziano.github.io/FeedReader/#) to run in your browser right now
+Click [here](https://samulmarziano.github.io/FeedReader/) to run in your browser right now
 
 ### Download and run
 
